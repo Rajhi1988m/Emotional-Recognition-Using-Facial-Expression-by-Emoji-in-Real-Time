@@ -25,6 +25,7 @@ There are certain objectives of the thesis necessary to understand the core aspe
 
 •	To understand the facial emotion recognition in real time
 
+
 4. Credits:
 
 This was built using:
@@ -38,7 +39,9 @@ http://getbootstrap.com/
 • jQuery:
 https://jquery.com/
 
+
 5. Requirements:
+
 
 • 2 GB of memory
 

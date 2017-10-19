@@ -35,8 +35,17 @@ https://www.affectiva.com/
 • Bootstrap: 
 http://getbootstrap.com/
 
-• jQuery
+• jQuery:
 https://jquery.com/
 
+5. Requirements:
+
+• 2 GB of memory
+
+• Installed Webcam
+
+• Internet 
+
+• Operating System: Windows, Linux, Mac OS
 
 

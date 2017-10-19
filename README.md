@@ -52,4 +52,7 @@ https://jquery.com/
 
 • Operating System: Windows, Linux, Mac OS
 
+6. About the Author:
+
+Mohammed Rajhi is a teacher assistance in Jazan University, Kingdom of Saudi Arabia. He's engaged in computer vision, Cybersecurity, and automation that creates innovative solutions to real-world problems. He holds a Bachelor and Masters degree in Computer Science.  
 

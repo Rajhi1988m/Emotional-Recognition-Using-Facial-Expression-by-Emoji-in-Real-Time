@@ -30,15 +30,12 @@ There are certain objectives of the thesis necessary to understand the core aspe
 This was built using:
 
 • Affectiva API: 
-
 https://www.affectiva.com/
 
 • Bootstrap: 
-
 http://getbootstrap.com/
 
 • jQuery
-
 https://jquery.com/
 
 
